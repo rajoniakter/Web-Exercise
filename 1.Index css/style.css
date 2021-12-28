@@ -1,0 +1,38 @@
+h1{
+    
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+h2{
+
+    color: yellowgreen;
+    
+}
+
+p{
+    color: blue;
+    color: pink;
+    color: whitesmoke;
+    color: tomato;
+    
+}
+
+#code{
+    color:blue;
+    font-size: 25px;
+    font-weight: lighter;
+}
+
+
+.buy{
+    color:brown;
+
+    background-color:dodgerblue;
+}
+
+.buy-box{
+    border: rgb(91, 233, 91) 5px dashed;
+    background-color: gainsboro;
+    
+}
