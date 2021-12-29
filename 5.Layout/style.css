@@ -1,0 +1,32 @@
+@import "./style/div.css";
+@import "./style/nav.css";
+@import "./style/section.css";
+
+
+body{
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header, nav, section, footer{
+    border: 2px solid white;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+header,footer{
+    padding: 20px;
+    width: 960px;
+
+}
+
+nav,section{
+    padding: 200px;
+}
+
+nav,footer{
+    float:left;
+}
